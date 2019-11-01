@@ -40,6 +40,13 @@ table, th, td {
   background-color: #e3e3e3;
 }
 
+@media screen and (max-width: 1500px) {
+  table {
+    width: 90%;    
+    margin: auto;   
+  }
+}
+
 th, td {
   padding: 15px;    
 }
